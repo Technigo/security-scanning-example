@@ -2,7 +2,7 @@ const express = require('express')
 const reports = require('./routes/reports')
 const files = require('./routes/files')
 const search = require('./routes/search')
-const users = require('./routes/users')
+const users = require('./routes/user')
 
 const app = express()
 
